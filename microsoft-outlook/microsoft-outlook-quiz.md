@@ -513,13 +513,13 @@ D. Because you cannot create a search folder for a subfolder
 #### Q70.In Outlook, a rule is applied to
 
 - [ ] contacts
-- [ ] messages
+- [x] messages
 - [ ] tasks
 - [ ] meetings
 
 #### Q71.You want to change the default font used for new messages and in the Notes field in Calendar, Contacts, and Tasks. How do you do this?
 
-- [ ] Change the fonts used for mail in File > Options > Mail > Stationery and Fonts (Windows) or Outlook > Preferences > Fonts (Mac). The fonts used in the Notes field in Calendar, Contacts, and Tasks cannot be changed.
+- [x] Change the fonts used for mail in File > Options > Mail > Stationery and Fonts (Windows) or Outlook > Preferences > Fonts (Mac). The fonts used in the Notes field in Calendar, Contacts, and Tasks cannot be changed.
 - [ ] Click File > Options > General > Stationery and Fonts (Windows) or Outlook > Preferences > Composing (Mac).
 - [ ] Click File > Options > Mail > Stationery and Fonts (Windows) or Outlook > Preferences > Fonts (Mac).
 - [ ] Select the desired font in a new message. Outlook will use it for future messages and notes.
@@ -554,7 +554,7 @@ D. Because you cannot create a search folder for a subfolder
 
 #### Q75. The commands on which bar are available in all Outlook applications?
 
-- [ ] the Simplified Ribbon
+- [x] the Simplified Ribbon
 - [ ] To-Do Bar
 - [ ] Quick Access Toolbar
 - [ ] Navigation Bar
